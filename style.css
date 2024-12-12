@@ -2,7 +2,25 @@ body{
     background-color: #2D2929;
     
 }
+.navbar{
+    padding-right: 164px;
+}
+.nav-item{
+    padding-left: 40px;
+}
 .image{
     height: 50px;
     width: 50px;
+}
+.welcome-text{
+    padding: auto;
+    padding-left: 18%;
+    margin: auto;
+}
+.round-image{
+    height: 150px;
+    width: 150px;
+}
+.red-div{
+    background-color: #B62D2D;
 }
