@@ -36,7 +36,21 @@ body{
 .l-skills1{
     margin-left:55% ;
 }
+
 .l-skills{
    text-decoration: underline;
    width: 200px;
+}
+.pro-card{
+    border: none;
+    background-color: #2D2929;
+    margin-left:100px ;
+}
+.pro-card-img{
+    width: 200px;
+    height: 200px;
+
+}
+.learn-more{
+    color:#659AE9;
 }
