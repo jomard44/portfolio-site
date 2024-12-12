@@ -21,6 +21,9 @@ body{
     height: 150px;
     width: 150px;
 }
+.round-image-2{
+    margin-left:42%;
+}
 .red-div{
     background-color: #B62D2D;
 }
