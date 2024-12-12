@@ -27,3 +27,16 @@ body{
 .red-div{
     background-color: #B62D2D;
 }
+.btn1{
+    background-color: #685E5E;
+    color: white;
+    margin-left: 43%;
+   
+}
+.l-skills1{
+    margin-left:55% ;
+}
+.l-skills{
+   text-decoration: underline;
+   width: 200px;
+}
